@@ -1,2 +1,2 @@
 # ML-Basic
-уроки по ML
+уроки по ML-Basic
